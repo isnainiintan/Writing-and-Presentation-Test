@@ -203,6 +203,7 @@ HTML tersusun sebagai kesatuan dari sebuah tingkatan (_family tree relationship_
 - ```<td>``` digunakan untuk membuat kolom atau sel di setiap baris pada tabel
 
 # Day 3 | CSS (Cascading Style Sheet)
+
 CSS dapat digunakan untuk mengubah warna, menggunakan font custom, editing text format, mengatur tata letak, dan lainnya
 - Ada 3 cara untuk menambahkan CSS ke dalam dokumen HTML :
     - Inline CSS, yaitu menggunakan attribute style untuk menyisipkan kode CSS langsung di dalam HTML element.
@@ -307,6 +308,7 @@ Output :
 Nama Saya Nada
 ```
 # Day 4 | Intro to JavaScript
+
 Javacript adalah bahasa pemograman yang sangat powerful yang digunakan untuk logic pada sebuah website.
 
 ## Syntax dan Statement

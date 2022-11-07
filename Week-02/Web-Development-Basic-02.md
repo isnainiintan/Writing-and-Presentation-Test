@@ -1,6 +1,6 @@
 # Writing Test Week-2
 
-# Javascript - Scope
+# DAY 6 | Javascript - Scope
 
 Scope adalah konsep dalam flow data variabel. Terdapat jenis scope dalam javascript, yaitu
 - global scope, 
@@ -42,7 +42,7 @@ function simpleFunction(){
 }
 ```
 
-# Javascript - Function
+# DAY 6 | Javascript - Function
 
 ## Apa itu Function?
 Function adalah sebuah blok kode dalam sebuah grup untuk menyelesaikan 1 task/1 fitur. Saat kita membutuhkan fitur tersebut nantinya, kita bisa kembali menggunakannya.
@@ -128,7 +128,8 @@ const sumNumber = number => {
 }
 ```
 
-# Javascript Dasar - Data Type Built in Prototype and Method
+# DAY 7 | Javascript Dasar - Data Type Built in Prototype and Method
+
 ## Data Type
   - Data Primitive
     - ```string``` merupakan deretan karakter yang diapit oleh sepasang tanda kutip (" ") berguna untuk menyimpan data yang dapat direpresentasikan dalam bentuk teks.
@@ -251,7 +252,7 @@ const sumNumber = number => {
           console.log(str.trim()); // 'skilvul'
           ```
           
-          11.```includes()```
+          11. ```includes()```
           
           Mengembalikan nilai true or false apalah dalam variabel ada string tersebut
           ```javascript
@@ -387,7 +388,7 @@ const sumNumber = number => {
     console.log(Math.random() * 10);//output 9.495628210218175
     ```
 
-# JavaScript (Introduction to DOM)
+# DAY 8 | JavaScript (Introduction to DOM)
 
 Pada tingkat paling dasar, situs web terdiri dari dokumen HTML dan CSS. Browser membuat representasi dokumen yang dikenal sebagai Document Object Model (DOM). Dokumen ini memungkinkan Javascript untuk mengakses dan memanipulasi elemen dan style situs web. Model ini dibangun dalam struktur objek dan mendefinisikan:
 

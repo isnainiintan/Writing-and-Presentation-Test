@@ -1,8 +1,8 @@
 # Writing Test Week-6
 
-# Database
+# DAY 6 | Database
 
-> adalah kumpulan tabel yang berisi informasi yang disimpan didalam komputer secara sistematik dan saling berelasi
+> Database adalah kumpulan tabel yang berisi informasi yang disimpan didalam komputer secara sistematik dan saling berelasi
 ### DBMS(Database Management System) 
 > software untuk membuat database. Dapat digunakan oleh user untuk berkomunikasi dengan data yang ada dalam media penyimpanan
 
@@ -131,7 +131,7 @@ Terdapat empat perintah yang ada dalam DML, yaitu **INSERT, SELECT, UPDATE, dan 
 3. Many to Many
 <br> contohnya adalah relasi antar tabel mahasiswa dan tabel mata kuliah. 1 mahasiswa dapat mengambil banyak mata kuliah, dan 1 mata kuliah dapat diambil oleh banyak mahasiswa
 
-# MySQL Lanjutan
+# DAY 7 | MySQL Lanjutan
 
 ## Tipe-tipe Relations pada MySQL
 
@@ -397,7 +397,8 @@ SELECT*FROM nasabah WHERE nama_nasabah LIKE 'Susilo';
 
 ![screenshot](wc2.png)
 
-# Authentication dan Authorization
+# DAY 8 | Authentication dan Authorization
+
 ## Authentication
 ### Tentang Authentication
 - Authentication adalah untuk memverifikasi siapa kamu.
@@ -419,7 +420,8 @@ SELECT*FROM nasabah WHERE nama_nasabah LIKE 'Susilo';
 - Authorization, proses memberikan izin kepada pengguna untuk mengakses resource.
 - Encryption, Enkripsi adalah proses teknis yang mengonversikan informasi menjadi kode rahasia, sehingga mengaburkan data yang Anda kirim, terima, atau simpan
 
-# Sequelize 
+# DAY 9 | Sequelize
+
 ## Peserta mampu memahami dan menggunakan Sequalize
 - Sequelize adalah ORM (Object Relational Mapping) Node JS yang berbasis promise. Sequelize mendukung sebagian besar relational Database seperti MySQL, PostgresQL, MariaDB, SQLite dan Miscrosoft SQL Server.
 - Dengan fitur fitur di Sequelize, kita bisa mengelola dan mengatur data di database kita dengan cepat, dan efisien

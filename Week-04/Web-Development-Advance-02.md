@@ -1,6 +1,7 @@
 # Writing Test Week-4
 
-## Asynchronous - Fetch dan Async/await
+# DAY 6 | Asynchronous - Fetch dan Async/await
+
 Fetch yaitu kegiatan untuk meminta sebuah data pada website secara local maupun public, untuk mengambil response resource berupa data berformat json atau text yang dilakukan programmer untuk membuat website yang membutuhkan data dari website lain.
 
 Contoh Fetch
@@ -48,7 +49,8 @@ const getAllUser = async ()=> {
 }
 ```
 
-# Github Lanjutan
+# DAY 7 | Git & Github Lanjutan
+
   -  ```Git Branch``` Jika kita sedang berkolaborasi di repostory yang sama, maka kita harus membuat branch sendiri agar tidak terjadi konflik
 
       - git branch branch_saya : Membuat branch baru
@@ -121,7 +123,8 @@ Kita meisalkan ada user A dan user B, dan user A sebagai ketuanya.
 9. User B tidak perlu melakukan merge, dan yang melakukan merge adalah user A karena dia adalah pemimpinnya.
 10. Ulangi dari langkah ke-4
 
-# Responesive Web Design dan Bootstrap
+# DAY 8 | Responesive Web Design dan Bootstrap
+
 Responesive Web Design adalah agar desain website bisa dapat dilihat atau diakses pada device apapun.
 
 ## CSS Media Query
@@ -145,6 +148,8 @@ Ini berguna untuk mendesain website yang responsive karena ukurannya bisa beruba
 
 ## Flex dan Grid
 Flex dan Grid sama-sama berfungsi untuk mengatur tampilan sebuah halaman web menjadi lebih terstruktur dan rapi. Perbedaannya hanya terletak pada arah pembagian dimensinya saja.
+
+# DAY 8 | Bootstrap 5
 
 Bootstrap 5
 Bootstrap adalah sebuah framework untuk front-end dapat mmebuat sebuah website dengan cepat.

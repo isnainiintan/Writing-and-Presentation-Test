@@ -1,6 +1,6 @@
 # Writing Test Week-3
 
-## JavaScript - Array
+# DAY 1 | JavaScript - Array
 
 ### Apa itu Array?
  Array adalah kumpulan data dengan tipe serupa. Array dapat menyimpan tipe data String, Number, Boolean, dan lainnya.
@@ -143,7 +143,7 @@ inventory.forEach(baris) => {
 //Hoodie
 //12
 ```
-## JavaScript Object
+# DAY 2 | JavaScript Object
 
 ### Object
 
@@ -244,7 +244,8 @@ const employeeInfo = {
     }
 }
 ```
-## JavaScript - Recursive dan Modules
+# DAY 3 | JavaScript - Recursive dan Modules
+
 Rekrusif adalah function atau algoritma yang memanggil dirinya sendiri sampai kondisi tertentu. Rekrusif ini mirip seperti looping. Misalnya pada gambar ada gambar di dalam gambar. Terdapat 2 kunci pada rekrusif,yaitu base case atau titik berhenti dan recrusion case atau titik memanggil function. 
 
 Contoh script :
@@ -312,7 +313,7 @@ Berdasarkan script diatas,
 - Amerika hanya melakukan export.
 >Hal hal yang harus dilakukan saat membuat modules adalah menambahkan type="module" pada script utama, lalu siapkan script ke-2 dan sebagainya untuk melakukan export, serta lakukan import pada file atau script utama.
 
-## JavaScirpt - Asynchronus
+# DAY 4 | JavaScirpt - Asynchronus
 
 Pada konsep asynchronous, code akan dieksekusi tanpa menunggu eksekusi code lain selesai sehingga seakan-akan dieksekusi secara bersamaan.
 
@@ -351,7 +352,8 @@ Sesuai dengan artinya, perintah ini memastikan sebuah function ditunggu hingga s
 
 Promise itu sendiri sebenarnya sudah merupakan pembicaraan yang panjang. Tapi singkatnya, Promise adalah sebuah object yang mempunyai callback yang berfungsi untuk memberitahu kalau function sudah selesai dijalankan. Function dinyatakan selesai jika ```resolve()``` sudah dipanggil. Sehingga await pada async function akan menunggu hingga ```resolve()``` dipanggil sebelum melanjutkan ke baris berikutnya. Jika kita memberi await pada sebuah fungsi yang tidak mengembalikan Promise, maka tidak akan ada yang terjadi. Fungsi tersebut tidak akan ditunggu dan kode akan terus dieksekusi.
 
-## JavaScript Intermediate Web Storage
+# DAY 5 | JavaScript Intermediate Web Storage
+
 Ada beberapa cara untuk menyimpan data pengguna seperti pencarian, artikel berita, dan lain-lain ke lokal (browser) menggunakan web storage seperti cookies, local storage, dan session storage. 
 
 Data ini dimanfaatkan oleh situs web tersebut untuk merekam kebiasaan pengguna agar dapat memberikan rekomendasi sesuai preferensi si pengguna tersebut.

@@ -1,6 +1,6 @@
 # Writing Test Week-5
 
-# Web Server dan RESTful API
+# DAY 1 | Web Server dan RESTful API
 
 ## Web Server
 ### Komponen Web Server
@@ -78,7 +78,8 @@
   4. DELETE — return 204 (NO CONTENT) jika operasi gagal, kembalikan kode status paling spesifik yang mungkin terkait dengan masalah yang ditemui.
 <br>![response codes](Response_Codes.jpeg)
 
-# Intro Node.Js
+# DAY 2 | Intro Node.Js
+
 ### Tools
 - Visual Studio Code (code editor)
 - Browser latest version (Chrome, mozilla, opera, dll)
@@ -253,7 +254,7 @@
     }).listen(8080)
     ```
 
-# Express.js
+# DAY 3 | Express.js
 
 Express.js adalah framework web app untuk Node.js yang ditulis dengan bahasa pemrograman JavaScript. Framework open source ini dibuat oleh TJ Holowaychuk pada tahun 2010 lalu.
 
@@ -469,7 +470,8 @@ Secara umum, prinsip kerja Middleware adalah mencegat request yang masuk untuk k
         - express.urlEncoded()
     - Third Party (custom) Middleware
 
-# Design Database with MySQL
+# DAY 4 | Design Database with MySQL
+
 ### Entity / Entitas
 >adalah kumpulan objek yang dapat diidetifikasikan secara unik atau berbeda. Biasanya simbol dari entitas adalah persegi panjang
 ### Atribut
@@ -494,7 +496,8 @@ Secara umum, prinsip kerja Middleware adalah mencegat request yang masuk untuk k
 2. Relationship/Relasi Entity Keseluruhan
 <br>![membuat flowchart](week-05-pict002.png)
 
-## Design Database With MySQL (Lanjutan)
+# DAY 5 |  Design Database With MySQL (Lanjutan)
+
 - ### Membuat design db data film kesukaan :
 - mahasiswa dapat menyukai banyak film
 <br>![image](Db_lanjutan(1).jpeg)
